@@ -29,7 +29,7 @@ The 74HC283 is used for 4-bit binary addition, while the 74HC86 XOR gates are us
 The circuit was designed and simulated using Tinkercad Circuits.
 
 **Tinkercad Project:**  
-[View and simulate the project on Tinkercad](https://www.tinkercad.com/things/jnmH2shtOHf-minor-project-1-rudra-gavkhadkar)
+[View and simulate the project on Tinkercad](https://www.tinkercad.com/things/jnmH2shtOHf-minor-project-1-rudra-gavkhadkar?sharecode=CV3eP_iODh2XzM9TFDxo_1FCB5FUAPwUjrw09ZT4qUI)
 
 ## Project Outcome
 
